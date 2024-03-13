@@ -1,0 +1,15 @@
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\bin\Debug\net7.0\Caulculator.exe
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\bin\Debug\net7.0\Caulculator.deps.json
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\bin\Debug\net7.0\Caulculator.runtimeconfig.json
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\bin\Debug\net7.0\Caulculator.dll
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\bin\Debug\net7.0\Caulculator.pdb
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\Caulculator.csproj.AssemblyReference.cache
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\Caulculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\Caulculator.AssemblyInfoInputs.cache
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\Caulculator.AssemblyInfo.cs
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\Caulculator.csproj.CoreCompileInputs.cache
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\Caulculator.dll
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\refint\Caulculator.dll
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\Caulculator.pdb
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\Caulculator.genruntimeconfig.cache
+C:\Users\CBYK-DEV\Documents\Gabriel\balta\Caulculator\obj\Debug\net7.0\ref\Caulculator.dll
